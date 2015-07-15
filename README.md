@@ -25,6 +25,7 @@ site:
 
 * Dataset: [Activity monitoring data](https://d396qusza40orc.cloudfront.net/repdata%2Fdata%2Factivity.zip) [52K]
 
+
 The variables included in this dataset are:
 
 * **steps**: Number of steps taking in a 5-minute interval (missing
